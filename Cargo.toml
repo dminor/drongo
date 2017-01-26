@@ -1,0 +1,8 @@
+[package]
+name = "drongo"
+version = "0.1.0"
+authors = ["Dan Minor <daniel.minor@gmail.com>"]
+
+[dependencies]
+libc = ""
+rand = ""
